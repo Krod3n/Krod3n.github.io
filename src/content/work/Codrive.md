@@ -32,8 +32,6 @@ Cette expérience a confirmé que l'auto-formation, intégrée à une collaborat
 
 #### Technologie
 
-- dev:
-
 Back
 - Java 17
 - spring-boot 3.0.6
@@ -41,19 +39,16 @@ Back
 - Lombok 1.18.28
 - Mapstruct 1.5.4
 
-  Front
-  - React: 17.0.2
-  - Formik: 2.2.9
-  - Leaflet: 4.2.1
-  - Tailwindcss: 3.1.6
-  - Redux: 4.2.0
-  - Firebase: 9.23.0
+Front
+- React: 17.0.2
+- Formik: 2.2.9
+- Yup: 0.32.11
+- Leaflet: 4.2.1
+- Tailwindcss: 3.1.6
+- Redux: 4.2.0
+- Firebase: 9.23.0
 
-
-
-
-
-- Outils:
+Outils:
 - GitHub
 - Figma
 - Jira

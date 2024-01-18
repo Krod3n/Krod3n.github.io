@@ -21,6 +21,19 @@ Réalisé durant un examen, j'ai créé la base de données d'une application mo
 
 #### Technologie
 
+Back
+- Java 17
+- spring-boot 2.7.7
+- Maven 4.0.0
+
+Front
+- Expo: ~47.0.8
+- React-native: 0.70.5
+- Formik: 2.2.9
+- Yup: 0.32.11
+- Typescript: 4.9.4
+
+Outils:
 - GitHub
 - Figma
 - Jira

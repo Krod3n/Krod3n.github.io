@@ -28,6 +28,20 @@ Cette expérience a été riche en défis, mais elle a également été une oppo
 
 #### Technologie
 
+Back
+- Java 17
+- spring-boot 2.7.7
+- Maven 4.0.0
+
+Front
+- React: 17.0.2
+- Formik: 2.2.9
+- Yup: 0.32.11
+- Recharts: 2.3.2
+- I18next: 22.4.9
+- Typescript: 4.9.4
+
+Outils:
 - GitHub
 - Trello
 - Recharts
